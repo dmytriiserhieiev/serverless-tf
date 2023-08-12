@@ -1,0 +1,8 @@
+.DS_Store
+bin
+.terraform
+*tfstate*
+vendor
+saved-plan
+j2.json
+ignore*
